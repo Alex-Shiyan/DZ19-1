@@ -1,0 +1,15 @@
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ19\bin\Debug\net6.0\DZ19.exe
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ19\bin\Debug\net6.0\DZ19.deps.json
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ19\bin\Debug\net6.0\DZ19.runtimeconfig.json
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ19\bin\Debug\net6.0\DZ19.dll
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ19\bin\Debug\net6.0\ref\DZ19.dll
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ19\bin\Debug\net6.0\DZ19.pdb
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ19\obj\Debug\net6.0\DZ19.csproj.AssemblyReference.cache
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ19\obj\Debug\net6.0\DZ19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ19\obj\Debug\net6.0\DZ19.AssemblyInfoInputs.cache
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ19\obj\Debug\net6.0\DZ19.AssemblyInfo.cs
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ19\obj\Debug\net6.0\DZ19.csproj.CoreCompileInputs.cache
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ19\obj\Debug\net6.0\DZ19.dll
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ19\obj\Debug\net6.0\ref\DZ19.dll
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ19\obj\Debug\net6.0\DZ19.pdb
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ19\obj\Debug\net6.0\DZ19.genruntimeconfig.cache
